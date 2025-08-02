@@ -146,10 +146,10 @@ Response is returned and displayed with avatar.
 
 
 # Screenshots (Add at least 3)
-![img1]([https://github.com/user-attachments/assets/07072bee-fbc4-48a6-a250-b6e8b31a7aa7](https://github.com/ads2305/PodaAI/blob/main/img1.jpg))
+![img1]((https://raw.githubusercontent.com/ads2305/PodaAI/refs/heads/main/img1.jpg))
 
 
-![img2]([https://github.com/user-attachments/assets/4681d1bf-a340-4b2d-899c-8c42253ed611](https://github.com/ads2305/PodaAI/blob/main/img2.jpg))
+![img2](https://raw.githubusercontent.com/ads2305/PodaAI/refs/heads/main/img2.jpg)
 
 
 ### Project Demo
