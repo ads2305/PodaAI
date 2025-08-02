@@ -1,70 +1,169 @@
-# Getting Started with Create React App
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# PROJECT NAME:PODA AI 🎯
 
-In the project directory, you can run:
 
-### `npm start`
+## Basic Details
+### Team Name:ORBIT
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Team Members
+- Team Lead: Adwitha Nair - TKM College of Engineering
+- Member 2: Neeta A Suresh - TKM College of Engineering
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### Project Description
+This project presents an interactive chatbot interface inspired by traditional Kerala culture, featuring a humorous “Malayali uncle” persona. It aims to engage users through witty Malayalam dialogues , creating an entertaining and regionally grounded digital experience.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### The Problem (that doesn't exist)
+Most chatbot interfaces today lack cultural personality and emotional relatability. Our project solves this by designing a regionally inspired Malayalam-style AI bot that brings humor, familiarity, and local flavor to digital conversations—turning a typically bland user experience into something entertaining and engaging
 
-### `npm run build`
+### The Solution (that nobody asked for)
+We developed a culturally themed AI chatbot interface that mimics the tone, expressions, and personality of a typical humorous Malayalam-speaking “uncle” character. By combining regional language flair, animated visuals, and a responsive design, the solution offers users a fun, emotionally engaging, and relatable interaction experience—making digital communication more lively and locally resonant.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technical Details
+### Technologies/Components Used
+For Software:
+Languages used:
+Python – For backend using FastAPI.\
+JavaScript (React.js) – For frontend UI logic and interactivity.\
+CSS – For styling the frontend interface.\
+JSON – For keyword mapping and communication.
+Frameworks used
+FastAPI – Lightweight Python web framework used for creating APIs.
+React.js – Frontend JavaScript framework for building UI.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Libraries used
+Backend:
+fastapi – Web API handling.\
+uvicorn – ASGI server for FastAPI.\
+groq – Python SDK for accessing Groq LLM API.\
+random, json, os – Standard Python libraries for logic, file handling\
+Frontend:\
+React – Component-based frontend.\
+useState – React Hook for managing state.\
+Custom Assets – .gif for avatars and inline audio handling.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+ 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Tools used
+- VS Code – (presumed) IDE for development.\
+Groq API – For LLM-based replies.\
+Node.js & npm – For running the React frontend.\
+Git – Version control (presumed).\
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+For Hardware:
+- List main components
+- Development Machine (PC/Laptop)
+- RAM: 4GB minimum
+- CPU: Any modern dual-core or quad-core
+- OS: Windows
 
-### Analyzing the Bundle Size
+- [List tools required]
+- Node.js (v16+)
+-  Python (3.10+)
+-  Browser :Chrome
+-  Command Line (Terminal or CMD)
+- Internet (for Groq API
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Implementation
+For Software:\
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Installation\
+Backend:\
+bash\
+Copy\
+Edit
+### Create virtual environment (optional)
+python -m venv venv\
+source venv/bin/activate  # on Windows: venv\Scripts\activate
 
-### Advanced Configuration
+### Install dependencies\
+pip install fastapi uvicorn groq\
+Frontend:\
+bash\
+Copy\
+Edit
+### Create React app
+npx create-react-app poda-ai\
+cd poda-ai\
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Place App.js, App.css and assets
+### Install necessary packages (if needed)
+npm install\
+Run\
+Backend:\
+bash\
+Copy\
+Edit\
+uvicorn main:app --reload
+### This starts the FastAPI server at http://127.0.0.1:8000
+Frontend:\
+bash\
+Copy\
+Edit\
+npm start\
+### Starts frontend at http://localhost:3000
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Installation
+[commands]
 
-### `npm run build` fails to minify
+# Run
+[commands]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Project Documentation
+For Software:
+
+This project is a chat interface where a virtual character named “Cheta”, a witty Kollam uncle, responds to user messages in Manglish using sarcasm, attitude, and humor.\
+Key Features:
+Keyword-based local response (offline mode).
+
+Fallback to Groq LLM API for generating responses when no keyword match.
+
+Fully styled frontend with avatars (Jagathy for bot, Sreenivasan for user).
+
+CORS-enabled backend for easy API consumption.
+
+Flow:
+User types a message in the React UI.
+
+React sends a POST request to /chat in FastAPI.
+
+FastAPI checks for keyword matches → else sends to Groq.
+
+Response is returned and displayed with avatar.
+
+
+# Screenshots (Add at least 3)
+![WhatsApp Image 2025-08-02 at 06 20 51_a12c994b](https://github.com/user-attachments/assets/07072bee-fbc4-48a6-a250-b6e8b31a7aa7)
+
+
+![WhatsApp Image 2025-08-02 at 06 21 30_10dccd6a](https://github.com/user-attachments/assets/4681d1bf-a340-4b2d-899c-8c42253ed611)
+
+
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
+
+## Team Contributions
+- Adwitha Nair: Backend using API
+- Neeta A Suresh: Frontend
+
+
+---
+Made with ❤️ at TinkerHub Useless Projects
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
