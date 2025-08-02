@@ -146,10 +146,10 @@ Response is returned and displayed with avatar.
 
 
 # Screenshots (Add at least 3)
-![WhatsApp Image 2025-08-02 at 06 20 51_a12c994b](https://github.com/user-attachments/assets/07072bee-fbc4-48a6-a250-b6e8b31a7aa7)
+![img1]([https://github.com/user-attachments/assets/07072bee-fbc4-48a6-a250-b6e8b31a7aa7](https://github.com/ads2305/PodaAI/blob/main/img1.jpg))
 
 
-![WhatsApp Image 2025-08-02 at 06 21 30_10dccd6a](https://github.com/user-attachments/assets/4681d1bf-a340-4b2d-899c-8c42253ed611)
+![img2]([https://github.com/user-attachments/assets/4681d1bf-a340-4b2d-899c-8c42253ed611](https://github.com/ads2305/PodaAI/blob/main/img2.jpg))
 
 
 ### Project Demo
